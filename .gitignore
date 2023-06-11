@@ -1,0 +1,8 @@
+# Global
+node_modules/
+
+#Tests
+coverage/
+
+#Remote Container
+.docker/zsh/history/
